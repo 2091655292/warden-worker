@@ -5,7 +5,7 @@ compatibility_date = "2025-09-19"
 
 # 自定义域名 / Routes（来自云端）
 [[routes]]
-pattern = "warden.2x.nz"
+pattern = "bitwarden.daiv.qzz.io"
 zone_name = "2x.nz"
 # apex / 自定义域名无需 custom_domain，Cloudflare 会自动识别
 
