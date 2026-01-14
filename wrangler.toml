@@ -12,7 +12,7 @@ zone_name = "2x.nz"
 # D1 数据库绑定（必须完整，否则会被认为是新建/覆盖）
 [[d1_databases]]
 binding = "vault1"
-database_id = "d4e07248-2f73-4edb-915d-8ec1a7991c88"
+database_id = "865937c3-36d0-419c-95d7-948a02b28dc0"
 # database_name = "vault1" # 可选，但建议写上增强可读性
 
 # 可观测性 / 日志
